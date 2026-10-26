@@ -1,0 +1,16 @@
+
+.azda {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: currentColor;
+  mask: var(--icon) center / contain no-repeat;
+}
+
+.azda-walkie-talkie {
+  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@main/walkie-talkie.svg");
+}
+
+.azda-walkie-talkie-active {
+  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@main/walkie-talkie-active.svg");
+}
