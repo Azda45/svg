@@ -8,9 +8,9 @@
 }
 
 .azda-walkie-talkie {
-  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@main/walkie-talkie.svg");
+  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@1.1/walkie-talkie.svg");
 }
 
 .azda-walkie-talkie-active {
-  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@main/walkie-talkie-active.svg");
+  --icon: url("https://cdn.jsdelivr.net/gh/Azda45/svg@1.1/walkie-talkie-active.svg");
 }
